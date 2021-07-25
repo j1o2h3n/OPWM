@@ -23,7 +23,7 @@ OPWM离焦投影条纹法是在3D结构光投影时，投影仪在离焦情形�
   <img width="653.3" height="157.8" src=./fig/eq3.jpg>
 </p>
 
-然而这样的方程找到解析解是困难的，因此可以通过转换为优化问题来找到近似解，即将等式转换为如下优化问题：
+然而这样的方程组是超越方程，找到它的解析解是困难的，因此可以通过转换为优化问题来找到近似解，即将等式转换为如下优化问题：
 <p align="center">
   <img width="654.5" height="195.5" src=./fig/eq4.jpg>
 </p>
@@ -41,3 +41,7 @@ test.py文件是我用python代码写求解如上优化问题的代码，最终�
 方程3误差: 4.108008245329309e-05
 方程4误差: -2.9340628402541036e-05
 ```
+
+#### references
+- [1] Wang Y, Zhang S. Optimal pulse width modulation for sinusoidal fringe generation with projector defocusing[J]. Optics letters, 2010, 35(24): 4121-4123.
+- [2] Agelidis V G, Balouktsis A, Balouktsis I. On applying a minimization technique to the harmonic elimination PWM control: The bipolar waveform[J]. IEEE Power Electronics Letters, 2004, 2(2): 41-44.
