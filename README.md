@@ -44,5 +44,4 @@ test.py文件是我用python代码写求解如上优化问题的代码，最终�
 
 ### references
 [1] *Wang Y, Zhang S. Optimal pulse width modulation for sinusoidal fringe generation with projector defocusing[J]. Optics letters, 2010, 35(24): 4121-4123.*
-
 [2] *Agelidis V G, Balouktsis A, Balouktsis I. On applying a minimization technique to the harmonic elimination PWM control: The bipolar waveform[J]. IEEE Power Electronics Letters, 2004, 2(2): 41-44.*
