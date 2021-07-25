@@ -6,4 +6,4 @@ OPWM离焦投影条纹法是在3D结构光投影时，投影仪在离焦情形�
 
 ### 方程
 对占空比为50%的方波进行傅里叶变换，通过文献[1-3]的公式推导，可得到我们要解决的最终问题是求解方程：
-https://latex.codecogs.com/gif.latex?\\sum_{i=0}^n
+![](https://latex.codecogs.com/gif.latex?\\sum_{i=0}^n)
